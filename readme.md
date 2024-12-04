@@ -1,1 +1,1 @@
-Work in progress
+A simple simulation of Conway's Game of Life written in C with a fixed grid size.. Requires unix standard library for now. Eventually this will become a cross platform gui application and will support a much larger indefinite grid.
